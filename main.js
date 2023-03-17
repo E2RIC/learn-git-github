@@ -4,5 +4,5 @@ const student = {
     rollNo : 2334
 }
 const names = (){
-    console.log()
+    console.log("greeting")
 }
